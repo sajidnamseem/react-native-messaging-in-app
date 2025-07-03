@@ -56,8 +56,7 @@ Make sure these are properly configured in your iOS project.
 
 ### Android Dependencies
 This library requires the following Android dependencies:
-- `com.salesforce.android:smi-core`
-- `com.salesforce.android:smi-ui`
+- `com.salesforce.service:messaging-inapp-ui:1.9.0`
 
 The Android dependencies are automatically included via the library's build.gradle file.
 
