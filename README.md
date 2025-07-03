@@ -5,7 +5,7 @@ Salesforce React Native messaging library for in-app chat functionality
 ## Installation
 
 ```sh
-npm install react-native-messaging-in-app
+npm install [react-native-messaging-in-app](https://github.com/sajidnamseem/react-native-messaging-in-app.git)
 ```
 
 ## Usage
