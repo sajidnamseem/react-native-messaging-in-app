@@ -60,9 +60,9 @@ Add Maven Repository
 Add the following maven repository to your build.gradle or build.gradle.kts file.
 
 Add maven repo to build.gradle
-maven {
+`maven {
     url "https://s3.amazonaws.com/inapp.salesforce.com/public/android"
-}
+}`
 This library requires the following Android dependencies:
 - `com.salesforce.service:messaging-inapp-ui:1.9.0`
 
