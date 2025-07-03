@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { Text, View, StyleSheet, TouchableOpacity, Alert } from 'react-native';
 import { launchChat } from 'react-native-messaging-in-app';
 import type { MessagingConfig } from 'react-native-messaging-in-app';

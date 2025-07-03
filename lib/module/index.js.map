@@ -1,0 +1,1 @@
+{"version":3,"names":["MessagingInApp","launchChat","config"],"sourceRoot":"../../src","sources":["index.tsx"],"mappings":";;AAAA,OAAOA,cAAc,MAAM,2BAAwB;AAGnD,OAAO,SAASC,UAAUA,CAACC,MAAuB,EAAiB;EACjE,OAAOF,cAAc,CAACC,UAAU,CAACC,MAAM,CAAC;AAC1C;AAGA,eAAeF,cAAc","ignoreList":[]}

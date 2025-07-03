@@ -13,7 +13,7 @@ import android.util.Log
 class MessagingInAppModule(reactContext: ReactApplicationContext) : ReactContextBaseJavaModule(reactContext) {
 
     override fun getName(): String {
-        return "MessagingInApp"
+        return "MessagingModule"
     }
 
     @ReactMethod
